@@ -1,0 +1,3 @@
+# Software Components
+
+The central orchestration software optimizes warehouse operations by managing goods flow and coordinating shuttles and conveyors in real-time. It offers a user-friendly dashboard for operators and managers to visualize tasks, monitor inventory, and make swift decisions with up-to-date data. Secure mobile apps assist staff with tasks like picking, auditing, and monitoring infrastructure. Additionally, a comprehensive REST API ensures seamless integration with external systems and enables custom script development for specialized needs, enhancing efficiency and operational control.

@@ -34,6 +34,7 @@
   * [Partner API Docs V2](home/product-documentation/partner-api-docs-v2.md)
   * [Equipment Configuration](home/product-documentation/equipment-configuration.md)
   * [Standards Compliances](home/product-documentation/standards-compliances.md)
+  * [Cube Configurations](home/product-documentation/cube-configurations.md)
 * [Engineering & Design](home/engineering-and-design/README.md)
   * [Product Drawings & Layout](home/engineering-and-design/product-drawings-and-layout.md)
   * [Control System Architecture](home/engineering-and-design/control-system-architecture.md)

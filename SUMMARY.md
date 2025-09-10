@@ -38,6 +38,7 @@
   * [Standard Operating Procedure](home/product-documentation/standard-operating-procedure.md)
   * [Cube Robot User Manual](home/product-documentation/cube-robot-user-manual.md)
   * [Designer Risk Assessment](home/product-documentation/designer-risk-assessment.md)
+  * [Schematic Diagrams](home/product-documentation/schematic-diagrams.md)
 * [Engineering & Design](home/engineering-and-design/README.md)
   * [Product Drawings & Layout](home/engineering-and-design/product-drawings-and-layout.md)
   * [Control System Architecture](home/engineering-and-design/control-system-architecture.md)
